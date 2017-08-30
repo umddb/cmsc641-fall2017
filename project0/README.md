@@ -77,6 +77,27 @@ Use the command listed above to start a docker container with Jupyter. On your l
 
 * You should play with the Notebook to try out different Python commands. You can try creating a new notebook.
 
+### Notebooks from Python for Exploratory Computing, Mark Bakker, Delft University of Technology
+
+These are some of the notebooks from the above course - more details can be found at http://mbakker7.github.io/exploratory_computing_with_python/. 
+
+We have copied there over here so that you can start playing with them quickly. In order for the links below to work, you must have started the Jupyter Server using Docker above.
+
+Notebook 1 on Basics and Plotting: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook1_basics_plotting/py_exploratory_comp_1.ipynb
+
+Notebook 2: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook2_arrays/py_exploratory_comp_2.ipynb
+
+Notebook 3: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook3_for_and_if/py_exploratory_comp_3.ipynb
+
+Notebook 4: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook4_functions/py_exploratory_comp_4.ipynb
+
+Notebook 5: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook5_rootfinding/py_exploratory_comp_5.ipynb
+
+Notebook 6: http://localhost:8888/notebooks/notebooks/mbakker7_tu_delft/notebook6_linear_systems/py_exploratory_comp_6.ipynb
+
 ### Assignment 
 
 Complete the function in `Project 0 Assignment` Notebook, and upload the `Project 0 Assignment.ipynb` file to ELMS.
+
+
+
