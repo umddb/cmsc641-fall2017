@@ -10,7 +10,7 @@ This project focuses on utilizing the NLP skills we learned to do two basic text
 
 This part uses the Amazon Fine Foods reviews dataset, that contains reviews for a collection of products from Amazon. You can find the full dataset at: https://snap.stanford.edu/data/web-FineFoods.html. The project directory contains a small portion of it (not a random sample) with 2000 reviews. The format of the file should be self-explanatory. 
 
-Your task is to read in this file, and construct a simple classifier to predict the `review/score` from the `review/userId`, `review/profileName`, `review/time`, `review/summary`, and `review/text` (but not the `productId`, or `helpfulness`). You should figure out different types of features to use for this task, and should use a Naive Bayes Classifier for the classification (you can use other methods if you'd like).
+Your task is to read in this file, and construct a simple classifier to predict the `review/score` from the `review/userId`, `review/profileName`, `review/time`, `review/summary`, and `review/text` (but not the `productId`, or `helpfulness`). You should figure out different types of features to use for this task, and should use a Naive Bayes Classifier for the classification (you can use other methods if you'd like). You should use off-the-shelf implementation -- here is the sci-kit one: http://scikit-learn.org/stable/modules/naive_bayes.html
 
 (Optional) As an optional task, try to predict the `review/helpfulness` from the rest of the information (including the `review/score`). Note that, modeling time would be crucial here, since later reviews are less likely to be voted as helpful or unhelpful.
 
